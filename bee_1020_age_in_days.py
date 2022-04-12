@@ -1,3 +1,4 @@
+# Ashrafi Abir
 inp = int(input())
 algorithom1 = inp%365
 year = int(inp/365)
